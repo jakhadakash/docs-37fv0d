@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakhadakash.github.io/docs-37fv0d/sitemap.xml
